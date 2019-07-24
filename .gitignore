@@ -1,0 +1,4 @@
+.cache/
+dist/
+img/original/
+node_modules
